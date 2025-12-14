@@ -1,6 +1,6 @@
 ## Hi, I'm Alexander 👋
 [![shh4und's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4und&layout=donut&hide=Jupyter%20Notebook&langs_count=8&theme=radical)](https://github.com/shh4und/github-readme-stats)
-![shh4und's GitHub stats](https://github-readme-stats.vercel.app/api?username=shh4und\&rank_icon=github)
+![shh4und's GitHub stats](https://github-readme-stats.vercel.app/api?username=shh4und\&rank_icon=github&theme=radical)
 <!--
 **shh4und/shh4und** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
