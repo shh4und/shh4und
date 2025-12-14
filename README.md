@@ -1,7 +1,7 @@
 ## Hi, I'm Alexander 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shh4und&layout=donut&hide=Jupyter%20Notebook&langs_count=8&theme=radical)](https://github.com/shh4und/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=shh4und&commits_year=2025/top-langs/?username=shh4und&layout=donut&hide=Jupyter%20Notebook&langs_count=8&theme=radical)](https://github.com/shh4und/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shh4und&commits_year=2025)
 <!--
 **shh4und/shh4und** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
