@@ -1,3 +1,4 @@
 ## Hi, I'm Alexander 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=shh4und&theme=prussian&hide_border=true&locale=pt_BR&background=45%2CFF6767%2C2D286A)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=shh4und&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shh4und&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight&langs_count=8)
 
